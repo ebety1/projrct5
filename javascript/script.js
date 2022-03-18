@@ -21,8 +21,8 @@ class Player{
         this.isPlay;
 
         // ---------------------------A------------------------------
-        this.radio_name = ['Mauritania FM','tan FM', 'kurdStan FM','Algeria FM']
-        this.radio_source = ['Rihanna_-_Diamonds(48k).mp3','Rihanna_-_Diamonds(48k).mp3','Rihanna_-_Diamonds(48k).mp3','Rihanna_-_Diamonds(48k).mp3'];
+        this.radio_name = ['Media1','tan FM', 'kurdStan FM','Algeria FM']
+        this.radio_source = ['https://live.medi1.com/medi1#.mp3','https://l3.itworkscdn.net/itwaudio/9006/stream','https://adrar.ice.infomaniak.ch/01.aac'];
         
         
         this.server=0
